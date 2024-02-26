@@ -1,0 +1,232 @@
+[
+    {
+        "id": "Bancada-01",
+        "titulo": "Bancada 01",
+        "imagen": "./img/repuestos1/01.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 25
+    },
+    {
+        "id": "Valvulas-02",
+        "titulo": "Valvulas 02",
+        "imagen": "./img/repuestos1/02.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Vielas-03",
+        "titulo": "Vielas 03",
+        "imagen": "./img/repuestos1/03.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Juego axiales-04",
+        "titulo": " 04",
+        "imagen": "./img/repuestos1/04.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Anillos-05",
+        "titulo": " 05",
+        "imagen": "./img/repuestos1/05.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Pistones-06",
+        "titulo": " 06",
+        "imagen": "./img/repuestos1/06.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Empacaduras-07",
+        "titulo": " 07",
+        "imagen": "./img/repuestos1/07.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 1000
+    },
+    {
+        "id": "Kit de correa-08",
+        "titulo": " 08",
+        "imagen": "./img/repuestos1/08.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 90
+    },
+    {
+        "id": "Bomba de agua-09",
+        "titulo": " 09",
+        "imagen": "./img/repuestos1/09.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 100
+    },
+    {
+        "id": "Cadena de tiempo-10",
+        "titulo": " 10",
+        "imagen": "./img/repuestos1/10.jpg",
+        "categoria": {
+            "nombre": "Mitsubishi",
+            "id": "abrigos"
+        },
+        "precio": 150
+    },   
+    {
+        "id": "Bancada-01",
+        "titulo": " 01",
+        "imagen": "./img/repuestos2/01.jpg",
+        "categoria": {
+            "nombre": "Toyota",
+            "id": "camisetas"
+        },
+        "precio": 25
+    },
+    {
+        "id": "Valvulas-02",
+        "titulo": " 02",
+        "imagen": "./img/repuestos2/02.jpg",
+        "categoria": {
+            "nombre": "Toyota",
+            "id": "camisetas"
+        },
+        "precio": 20
+    },
+    {
+        "id": "Vielas-03",
+        "titulo": " 03",
+        "imagen": "./img/repuestos2/03.jpg",
+        "categoria": {
+            "nombre": "Toyota",
+            "id": "camisetas"
+        },
+        "precio": 25
+    },
+    {
+        "id": "Juego axiales-04",
+        "titulo": " 04",
+        "imagen": "./img/repuestos2/04.jpg",
+        "categoria": {
+            "nombre": "Toyota",
+            "id": "camisetas"
+        },
+        "precio": 40
+    },
+    {
+        "id": "Anillos-05",
+        "titulo": " 05",
+        "imagen": "./img/repuestos2/05.jpg",
+        "categoria": {
+            "nombre": "Toyota",
+            "id": "camisetas"
+        },
+        "precio": 15
+    },
+    {
+        "id": "Pistones-06",
+        "titulo": " 06",
+        "imagen": "./img/repuestos2/06.jpg",
+        "categoria": {
+            "nombre": "Toyota",
+            "id": "camisetas"
+        },
+        "precio": 15
+    },
+    {
+        "id": "Empacaduras-07",
+        "titulo": " 07",
+        "imagen": "./img/repuestos2/07.jpg",
+        "categoria": {
+            "nombre": "Toyota",
+            "id": "camisetas"
+        },
+        "precio": 30
+    },
+    {
+        "id": "Kit de correa-08",
+        "titulo": " 08",
+        "imagen": "./img/repuestos2/08.jpg",
+        "categoria": {
+            "nombre": "Toyota",
+            "id": "camisetas"
+        },
+        "precio": 80
+    },
+    {
+        "id": "Bancada-01",
+        "titulo": " 01",
+        "imagen": "./img/repuestos3/01.jpg",
+        "categoria": {
+            "nombre": "Jeep",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "Valvula-02",
+        "titulo": " 02",
+        "imagen": "./img/repuestos3/02.jpg",
+        "categoria": {
+            "nombre": "Jeep",
+            "id": "pantalones"
+        },
+        "precio": 20
+    },
+    {
+        "id": "Vielas-03",
+        "titulo": " 03",
+        "imagen": "./img/repuestos3/03.jpg",
+        "categoria": {
+            "nombre": "Jeep",
+            "id": "pantalones"
+        },
+        "precio": 25
+    },
+    {
+        "id": "Juego axiales-04",
+        "titulo": " 04",
+        "imagen": "./img/repuestos3/04.jpg",
+        "categoria": {
+            "nombre": "Jeep",
+            "id": "pantalones"
+        },
+        "precio": 40
+    },
+    {
+        "id": "Anillos-05",
+        "titulo": " 05",
+        "imagen": "./img/repuestos3/05.jpg",
+        "categoria": {
+            "nombre": "Jeep",
+            "id": "pantalones"
+        },
+        "precio": 15
+    }
+]

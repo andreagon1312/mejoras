@@ -1,0 +1,1 @@
+const botonComprar = document.querySelector("#carrito-acciones-comprar");
